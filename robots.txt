@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://morteg15.github.io/Agder_Antenneservice/sitemap.xml
